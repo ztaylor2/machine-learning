@@ -1,2 +1,8 @@
 # machine-learning
-Machine learning in python
+An analysis of Boston houseing data. 
+
+The data:
+https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
+
+Anaysis' performed
+
